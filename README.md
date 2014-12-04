@@ -6,6 +6,10 @@ FFmpeg installation and configuration module
 Changlog
 --------
 
+2014-12-04
+
+  * Moved repo to x86_64 because everything we do now is 64 bit
+
 Usage
 -----
 
